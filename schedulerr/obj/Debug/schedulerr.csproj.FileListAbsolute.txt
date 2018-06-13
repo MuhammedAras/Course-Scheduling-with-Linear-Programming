@@ -1,0 +1,114 @@
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\bin\Debug\schedulerr.exe.config
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\bin\Debug\schedulerr.exe
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\bin\Debug\schedulerr.pdb
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.csprojResolveAssemblyReference.cache
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.Properties.Resources.resources
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.csproj.GenerateResource.Cache
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.exe
+c:\users\bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.pdb
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.AnasayfaForm.resources
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.SiniflarForm.resources
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.HocaForm.resources
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.DersForm.resources
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.MemnuniyetForm.resources
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\bin\Debug\CircularProgressBar.dll
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\bin\Debug\WinFormAnimation.dll
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\bin\Debug\CircularProgressBar.xml
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\bin\Debug\WinFormAnimation.xml
+C:\Users\Bazz\documents\visual studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.Forms.FakülteninBelirledigiDerslerForm.resources
+C:\Users\Bazz\Documents\Visual Studio 2015\Projects\schedulerr\schedulerr\obj\Debug\schedulerr.Forms.FakülteninAtayacagiDersSaati.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.AnasayfaForm.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.DersForm.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.Forms.FakülteninAtayacagiDersSaati.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.Forms.FakülteninBelirledigiDerslerForm.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.HocaForm.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.MemnuniyetForm.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.Properties.Resources.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.SiniflarForm.resources
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.csproj.GenerateResource.Cache
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\bin\Debug\schedulerr.exe.config
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\bin\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\bin\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\bin\Debug\CircularProgressBar.dll
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\bin\Debug\WinFormAnimation.dll
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\bin\Debug\CircularProgressBar.xml
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\bin\Debug\WinFormAnimation.xml
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\scheduler2017\schedulerr\obj\Debug\schedulerr.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\bin\Debug\schedulerr.exe.config
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\bin\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\bin\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\bin\Debug\CircularProgressBar.dll
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\bin\Debug\WinFormAnimation.dll
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\bin\Debug\CircularProgressBar.xml
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\bin\Debug\WinFormAnimation.xml
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.AnasayfaForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.DersForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.Forms.FakülteninAtayacagiDersSaati.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.Forms.FakülteninBelirledigiDerslerForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.HocaForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.MemnuniyetForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.Properties.Resources.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.SiniflarForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son Hali\schedulerr\obj\Debug\schedulerr.csproj.GenerateResource.Cache
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\bin\Debug\schedulerr.exe.config
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\bin\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\bin\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\bin\Debug\CircularProgressBar.dll
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\bin\Debug\WinFormAnimation.dll
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\bin\Debug\CircularProgressBar.xml
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\bin\Debug\WinFormAnimation.xml
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.AnasayfaForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.DersForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.Forms.FakülteninAtayacagiDersSaati.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.Forms.FakülteninBelirledigiDerslerForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.HocaForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.MemnuniyetForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.Properties.Resources.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.SiniflarForm.resources
+C:\Users\Lenovo-\Desktop\scheduler-Son\schedulerr\obj\Debug\schedulerr.csproj.GenerateResource.Cache
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\bin\Debug\schedulerr.exe.config
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.exe
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.pdb
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\bin\Debug\schedulerr.exe
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\bin\Debug\schedulerr.pdb
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\bin\Debug\CircularProgressBar.dll
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\bin\Debug\WinFormAnimation.dll
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\bin\Debug\CircularProgressBar.xml
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\bin\Debug\WinFormAnimation.xml
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.csprojResolveAssemblyReference.cache
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.AnasayfaForm.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.DersForm.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.Forms.FakülteninAtayacagiDersSaati.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.Forms.FakülteninBelirledigiDerslerForm.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.HocaForm.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.MemnuniyetForm.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.Properties.Resources.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.SiniflarForm.resources
+C:\Users\Bazz\Google Drive\Bitirme Projesi\scheduler-Son don\schedulerr\obj\Debug\schedulerr.csproj.GenerateResource.Cache
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\bin\Debug\schedulerr.exe.config
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\bin\Debug\schedulerr.exe
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\bin\Debug\schedulerr.pdb
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\bin\Debug\CircularProgressBar.dll
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\bin\Debug\WinFormAnimation.dll
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\bin\Debug\CircularProgressBar.xml
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\bin\Debug\WinFormAnimation.xml
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.AnasayfaForm.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.DersForm.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.Forms.FakülteninAtayacagiDersSaati.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.Forms.FakülteninBelirledigiDerslerForm.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.HocaForm.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.MemnuniyetForm.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.Properties.Resources.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.SiniflarForm.resources
+C:\Users\Lenovo-\Desktop\Course Scheduling with Linear Programming\schedulerr\obj\Debug\schedulerr.csproj.GenerateResource.Cache
